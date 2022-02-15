@@ -1,0 +1,10 @@
+Doctor`s Appointment	See doctor Emilova at City Clinic	23-04-2016
+Finish design for a client	I promised Mike to finish his project ontime	05-04-2016
+Pick up a friend from Bus Station	Victor is coming from Sofia for the holidays	26-04-2016
+Visit Metro	Sale of kitchen robots	30-04-2016
+short	details description	23-01-2022
+short 2	details	25-01-2022
+short3	details	26-01-2022
+short4	details	28-01-2022
+short5	details	27-01-2022
+short5	details	27-01-2022
